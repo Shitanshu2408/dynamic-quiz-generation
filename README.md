@@ -6,7 +6,7 @@ Say goodbye to the days of spending countless hours crafting quizzes and hello t
 # Project Demo
 https://github.com/somesh4545/dynamic-quiz-generation/assets/57597556/a6d8a9d9-3bcb-4932-83d0-c71a42c9d534
 
-
+Hosted : dynamic-quiz-generation.vercel.app
 
 ## UI
 1. Home screen: <a href="https://raw.githubusercontent.com/somesh4545/dynamic-quiz-generation/master/ui/homescreen.png">link</a>
